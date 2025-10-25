@@ -1,20 +1,4 @@
-// let inputbox=document.querySelector("input");
-// let keysParent=document.querySelector(".keys-box");
-// let box1=document.getElementById("keypressed");
-// let box2=document.getElementById("Keycode");
-// let box3=document.getElementById("eventcode");
 
-// window.addEventListener("keydown",(event)=>{
-// box1.innerHTML=event.key;
-// box2.innerHTML=event.key.charCodeAt(0);
-// box3.innerHTML=event.code;
-// inputbox.classList.add('hide');
-// setTimeout(() => {
-//     inputbox.style.display = "none";
-//     keysParent.style.display = "flex";
-//     keysParent.classList.add("show");
-//   }, 500);
-// })
 let inputbox = document.querySelector("input");
 let keysParent = document.querySelector(".keys-box");
 let box1 = document.getElementById("keypressed");
