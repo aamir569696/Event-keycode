@@ -142,7 +142,6 @@ input::placeholder {
     flex-direction: column;
     align-items: center;
     padding: 4vw 0vw;
-    margin-top: 60px;
   }
   .key {
     width: 70%;
